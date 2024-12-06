@@ -1,0 +1,23 @@
+body,.form-control{
+    background-color: #24353F;
+    font-family: Arial, sans-serif;
+    color: #fff;
+}
+h1{
+    color: #17A2B8;
+}
+input, button {
+    padding: 10px;
+    margin: 5px;
+}
+.error-message {
+    color: red;
+    font-size: 12px;
+    display: none;
+}
+.text-danger {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
